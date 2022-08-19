@@ -1,4 +1,5 @@
 String language = "Dart";
+
 void outerFunction() {
   String level = 'one';
   String ex = "scope";
